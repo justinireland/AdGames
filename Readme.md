@@ -16,3 +16,4 @@ $ npm install
 ```
 $ npm start
 ```
+Then navigate to http://localhost/display
