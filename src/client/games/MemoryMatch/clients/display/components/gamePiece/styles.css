@@ -1,0 +1,14 @@
+.ReactFlipCard {
+    margin: 5px;
+    text-align: center;
+}
+.ReactFlipCard,
+.ReactFlipCard__Front,
+.ReactFlipCard__Back {
+    width: 130px;
+    height: 130px;
+}
+.ReactFlipCard__Front,
+.ReactFlipCard__Back {
+    background: rgba(0,0,0,0.0);
+}

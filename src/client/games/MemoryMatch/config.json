@@ -1,0 +1,160 @@
+{
+  "name": "MemoryMatch",
+  "slug": "memory-match",
+  "themes": {
+    "coke": {
+      "display": {
+        "backgroundImg": "",
+        "backgroundColor": "#FFFFFF",
+        "modal": {
+          "backgroundColor": "#f40009",
+          "textColor": "#FFFFFF"
+        }
+      },
+      "heading": {
+        "textColor": "#f40009",
+        "text": "Match the Bottle Caps"
+      },
+      "tableHeader": {
+        "color": "#f40009",
+        "textColor": "#FFF"
+      },
+      "gamePiece": {
+        "imgFront": "bottlecap-130x130.png",
+        "spriteSheet": "coke-spritesheet.png",
+        "textColor": "#f40009",
+        "highlightTextColor": "#FFFFFF"
+      },
+      "player":{
+        "backgroundColor": "#FFFFFF"
+      },
+      "primaryColor": "#f40009",
+      "secondaryColor": "#FFFFFF",
+      "gamePieces": [
+        {
+          "name": "coca-cola",
+          "backgroundPosition": "0px -130px"
+        },
+        {
+          "name": "coke-zero",
+          "backgroundPosition": "-390px -130px"
+        },
+        {
+          "name": "diet-coke",
+          "backgroundPosition": "-130px -130px"
+        },
+        {
+          "name": "caffeine-free-diet-coke",
+          "backgroundPosition": "-260px -130px"
+        },
+        {
+          "name": "sprite",
+          "backgroundPosition": "-260px -260px"
+        },
+        {
+          "name": "sprite-zero",
+          "backgroundPosition": "-390px -260px"
+        },
+        {
+          "name": "pibb-xtra",
+          "backgroundPosition": "-130px 0px"
+        },
+        {
+          "name": "pibb-zero",
+          "backgroundPosition": "0px 0px"
+        },
+        {
+          "name": "hi-c",
+          "backgroundPosition": "-130px -390px"
+        },
+        {
+          "name": "minute-maid",
+          "backgroundPosition": "-260px 0px"
+        },
+        {
+          "name": "minute-maid-light",
+          "backgroundPosition": "-390px 0px"
+        },
+        {
+          "name": "fanta",
+          "backgroundPosition": "0px -260px"
+        },
+        {
+          "name": "fanta-zero",
+          "backgroundPosition": "-130px -260px"
+        },
+        {
+          "name": "vault",
+          "backgroundPosition": "0px -390px"
+        },
+        {
+          "name": "dasani",
+          "backgroundPosition": "-390px -390px"
+        },
+        {
+          "name": "powerade",
+          "backgroundPosition": "-260px -390px"
+        }
+      ]
+    },
+    "m&m": {
+      "display":{
+        "backgroundImg": "",
+        "backgroundColor": "#f3c637",
+        "modal": {
+          "backgroundColor": "#f3c637",
+          "textColor": "#5e362a"
+        }
+      },
+      "heading": {
+        "textColor": "#5e362a",
+        "text": "Match the M&M Colors"
+      },
+      "tableHeader": {
+        "color": "#5e362a",
+        "textColor": "#f3c637"
+      },
+      "player":{
+        "backgroundColor": "#f3c637"
+      },
+      "primaryColor": "#f3c637",
+      "secondaryColor": "#5e362a",
+      "gamePiece": {
+        "imgFront": "mm-130x130.png",
+        "spriteSheet": "mm-spritesheet.png",
+        "textColor": "#FFF",
+        "highlightTextColor": "#f3c637"
+      },
+      "gamePieces": [
+        {
+          "name": "blue",
+          "backgroundPosition": "0px -130px"
+        },
+        {
+          "name": "yellow",
+          "backgroundPosition": "-130px -130px"
+        },
+        {
+          "name": "orange",
+          "backgroundPosition": "-260px -130px"
+        },
+        {
+          "name": "red",
+          "backgroundPosition": "-130px 0px"
+        },
+        {
+          "name": "green",
+          "backgroundPosition": "0px 0px"
+        },
+        {
+          "name": "purple",
+          "backgroundPosition": "-260px 0px"
+        },
+        {
+          "name": "pink",
+          "backgroundPosition": "-390px 0px"
+        }
+      ]
+    }
+  }
+}
